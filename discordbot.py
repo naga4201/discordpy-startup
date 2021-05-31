@@ -22,7 +22,6 @@ async def ping(ctx):
 async def gia(ctx):
     await ctx.send(':ElrV7StVkAEnJXn:')
 
-
 @client.command()
 async def addch(ctx, channel_name):
     thread_category = bot.get_channel(786837217041055785)  
