@@ -20,7 +20,7 @@ async def ping(ctx):
 
 @bot.command()
 async def gia(ctx):
-    await ctx.send('ElrV7StVkAEnJXn')
+    await ctx.send(':ElrV7StVkAEnJXn:')
 
 
 bot.run(token)
